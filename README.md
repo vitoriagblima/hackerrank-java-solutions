@@ -14,18 +14,18 @@ This repository contains my solutions for the **HackerRank Java Prepare** track.
 
 ## Project Structure
 
-The solutions are organized by HackerRank subdomains inside the `src` directory. A complete list of solved exercises and their respective implementations can be found in `docs/INDEX.md`.
+A complete list of solved exercises and their respective implementations can be found in the [Solution Index](./docs/INDEX.md).
 
 ```text
 .
 ├── docs/
 │   └── INDEX.md
 └── src/
-    ├── Introduction/
-    ├── Strings/
-    ├── BigNumber/
-    ├── DataStructures/
-    ├── ObjectOrientedProgramming/
-    ├── ExceptionHandling/
-    └── Advanced/
+    ├── introduction/
+    ├── strings/
+    ├── bignumber/
+    ├── datastructures/
+    ├── oop/
+    ├── exceptionhandling/
+    └── advanced/
 ```
