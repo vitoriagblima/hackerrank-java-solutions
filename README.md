@@ -29,3 +29,17 @@ A complete list of solved exercises and their respective implementations can be 
     ├── exceptionhandling/
     └── advanced/
 ```
+
+## Notes
+
+The solutions in this repository are organized using Java packages to keep the project structure clean and maintainable.
+
+If you want to copy a solution directly into HackerRank's editor, make sure to remove the package declaration from the beginning of the file before submitting.
+
+Example:
+
+```java
+package introduction;
+```
+
+HackerRank compiles submissions without custom package declarations, so leaving the package statement in the source code may cause compilation errors.
