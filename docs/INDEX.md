@@ -9,4 +9,5 @@
 | [Welcome to Java](https://www.hackerrank.com/challenges/welcome-to-java/problem?isFullScreen=true) | ✔ Solved | [Java](../src/introduction/WelcomeToJava.java) |
 | [Java Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem?isFullScreen=true) | ✔ Solved | [Java](../src/introduction/StdinStdoutI.java)
 | [Java If Else](https://www.hackerrank.com/challenges/java-if-else/problem?isFullScreen=true) | ✔ Solved | [Java](../src/introduction/IfElse.java)
-| [ Java Stdin and Stdout II](https://www.hackerrank.com/challenges/java-stdin-stdout/problem?isFullScreen=true) | ✔ Solved | [Java](../src/introduction/StdinStdoutII.java)
+| [Java Stdin and Stdout II](https://www.hackerrank.com/challenges/java-stdin-stdout/problem?isFullScreen=true) | ✔ Solved | [Java](../src/introduction/StdinStdoutII.java)
+| [Java Loops I](https://www.hackerrank.com/challenges/java-loops-i/problem?isFullScreen=true) | ✔ Solved | [Java](../src/introduction/LoopsI.java)
