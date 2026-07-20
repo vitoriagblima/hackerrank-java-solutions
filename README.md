@@ -6,40 +6,25 @@
 
 ---
 
-## Objective
+## Objetivo
 
-This repository contains my solutions for the **HackerRank Java Prepare** track. The main goal is to strengthen Java fundamentals, improve problem-solving skills, and practice programming concepts through progressively more challenging exercises.
+Este repositório contém minhas soluções para a trilha **HackerRank Java Prepare**. O objetivo principal é fortalecer os fundamentos do Java, aprimorar minhas habilidades de resolução de problemas e praticar conceitos de programação por meio de exercícios progressivamente mais desafiadores.
 
 ---
 
-## Project Structure
+## Estrutura do Projeto
 
-A complete list of solved exercises and their respective implementations can be found in the [Solution Index](./docs/INDEX.md).
+Uma lista completa dos exercícios resolvidos e suas respectivas implementações pode ser encontrada no [Índice de Soluções](./docs/INDEX.md).
 
 ```text
 .
 ├── docs/
 │   └── INDEX.md
 └── src/
-    ├── introduction/
-    ├── strings/
-    ├── bignumber/
-    ├── datastructures/
-    ├── oop/
-    ├── exceptionhandling/
-    └── advanced/
-```
-
-## Notes
-
-The solutions in this repository are organized using Java packages to keep the project structure clean and maintainable.
-
-If you want to copy a solution directly into HackerRank's editor, make sure to remove the package declaration from the beginning of the file before submitting.
-
-Example:
-
-```java
-package introduction;
-```
-
-HackerRank compiles submissions without custom package declarations, so leaving the package statement in the source code may cause compilation errors.
+   ├── introduction/
+   ├── strings/
+   ├── bignumber/
+   ├── datastructures/
+   ├── oop/
+   ├── exceptionhandling/
+   └── advanced/
